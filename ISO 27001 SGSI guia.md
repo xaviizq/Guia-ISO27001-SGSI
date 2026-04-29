@@ -1,7 +1,7 @@
 # ISO 27001 y SGSI — Guía práctica para empresa
 
 > [!info] Objetivo del documento
-> Este documento resume de forma práctica qué es **ISO/IEC 27001**, qué es un **SGSI** y cómo una organización puede implantarlo, revisarlo y mejorarlo. Está pensado como una guía clara para entender la norma y presentarla en un entorno empresarial o publicarla en GitHub.
+> Este documento resume de forma práctica qué es **ISO/IEC 27001**, qué es un **SGSI** y cómo una organización puede implantarlo, revisarlo y mejorarlo. Está pensado como una guía clara para entender la norma y presentarla en un entorno empresarial.
 
 ---
 
